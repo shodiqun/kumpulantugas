@@ -1,0 +1,7 @@
+wilayah,id,name,lat_awal,lng_awal,lat_baru,lng_baru,jenis,jarak_dari_wilayah_km,keterangan
+sumatera,13,SUMATERA BARAT,-1.34225,100.0761,-0.93767,100.36044,Titik di laut,32.1,"Titik jatuh di Selat Mentawai, ±32 km dari daratan Sumbar. Dipindah ke ibu kota (Padang)."
+sumatera,19,KEPULAUAN BANGKA BELITUNG,-2.75775,107.58394,-2.15292,106.15789,Titik di laut,2.4,"Titik jatuh di laut ±2,4 km dari pantai barat Belitung. Dipindah ke ibu kota (Pangkalpinang)."
+jawa-bali,31,DKI JAKARTA,6.1745,106.8227,-6.1745,106.8227,Tanda lintang salah (+),1362.0,Lintang positif menaruh titik di Laut Cina Selatan (±1.362 km dari DKI). Tanda dibalik jadi negatif (LS).
+jawa-bali,34,DI YOGYAKARTA,7.7956,110.3695,-7.7956,110.3695,Tanda lintang salah (+),1705.6,Lintang positif menaruh titik di Laut Cina Selatan (±1.706 km dari DIY). Tanda dibalik jadi negatif (LS).
+jawa-bali,35,JAWA TIMUR,-6.96851,113.98005,-7.24557,112.73917,Tidak representatif,0.0,"Titik di Pulau Madura (Kab. Sumenep), ±160 km dari pusat wilayah Jatim. Dipindah ke ibu kota (Surabaya)."
+indonesia_timur,52,NUSA TENGGARA BARAT,-8.12179,117.63696,-8.58148,116.10975,Titik di laut,3.4,"Titik jatuh di Laut Flores, ±3,4 km dari daratan terdekat (Kab. Sumbawa). Dipindah ke ibu kota (Mataram)."

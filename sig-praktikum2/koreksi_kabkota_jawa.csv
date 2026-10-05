@@ -1,0 +1,3 @@
+layer,id,name,lat_awal,lng_awal,lat_baru,lng_baru,jenis,jarak_dari_wilayah_km,keterangan
+dki_jakarta,3101,KABUPATEN KEPULAUAN SERIBU,-5.5985,106.55271,-5.74648,106.61316,Titik di laut,0.58,"Titik jatuh di laut ±0,6 km dari pulau terdekat. Dipindah ke ibu kota (Pulau Pramuka)."
+di_yogyakarta,3401,KABUPATEN KULON PROGO,-7.645,110.02694,-7.85781,110.15916,Titik di kabupaten lain,10.36,"Titik jatuh di Kab. Purworejo (Jawa Tengah), ±10,4 km dari batas Kulon Progo. Dipindah ke ibu kota (Wates)."
